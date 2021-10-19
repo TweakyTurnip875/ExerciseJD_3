@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.noah.Main","c":"Main","l":"isPalindrome(int)"},{"p":"com.noah.Main","c":"Main","l":"Main()","url":"%3Cinit%3E()"},{"p":"com.noah.Main","c":"Main","l":"reverse(int)"}]
